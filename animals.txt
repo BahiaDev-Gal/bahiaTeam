@@ -1,6 +1,7 @@
 lion yellow
 lion green
 lion red
+lion pink
 tiger
 leopard
 turtle
